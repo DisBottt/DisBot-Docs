@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://disbott.repl.co/docs/sitemap.xml.gz
