@@ -1,0 +1,35 @@
+input: .
+output: .retype
+url: https://disbott.repl.co/docs
+
+branding:
+  title: DisBot
+  label: Docs
+  logo: disbot.webp
+
+poweredByRetype: true
+
+favicon: disbot.webp
+
+links:
+- text: Invite
+  link: https://disbott.repl.co/invite.html
+  icon: diff-added
+- text: Contact
+  icon: comment-discussion
+  link: https://disbott.repl.co/support.html
+
+edit:
+  repo: "https://github.com/DisBottt/DisBot-Docs"
+  label: "Edit page in Github"
+
+meta:
+  title: " - DisBot"
+
+search:
+  hotkeys:
+    - "/"
+  placeholder: "Search..."
+
+footer:
+  copyright: "&copy; Copyright [DisBot](https://disbott.repl.co/) {{ year }}. All rights reserved."
